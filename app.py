@@ -55,8 +55,10 @@ You are an expert in nutritionist where you need to see the food items from the 
                2. Item 2 - no of calories
                ----
                ----
-
-
+        Finally you can tell whether the meal or the food is healthy or not and also
+        mention the percentage split of the ratio of carbohydrates,protein,fats,fiber,sugar and other important 
+        things required in our diet
+    
 """
 
 ## If submit button is clicked
